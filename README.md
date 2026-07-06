@@ -1,1 +1,1 @@
-# systolic-mm-accelerator
+# tpu-lite
