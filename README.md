@@ -1,3 +1,1 @@
-# tpu-lite
-
-weight-stationary systolic array matrix-multiply accelerator
+# Layer-Tailored Quantized WS-Systolic Array
