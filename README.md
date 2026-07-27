@@ -1,1 +1,1 @@
-# Layer-Tailored Quantized WS-Systolic Array
+# Neural Matrix Inference Processing Unit (NMIPU)
