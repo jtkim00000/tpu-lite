@@ -1,1 +1,1 @@
-# Neural Matrix Inference Processing Unit (NMIPU)
+# Neural Inference Processing Unit (NIPU)
